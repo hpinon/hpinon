@@ -19,7 +19,12 @@ As a programmer analyst, I enjoy using my attention to detail, my passion for co
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chandrikadeb7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hpinon&show_icons=true&locale=en" alt="hpinon" /></p>
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpinon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpinon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!--
 **hpinon/hpinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
