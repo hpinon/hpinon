@@ -1,4 +1,4 @@
-## Hi &#47 Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi &#47; Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi &#47 Hola👋, I'm Humberton Pinon</h1>
 
