@@ -9,7 +9,8 @@
 
 As a programmer analyst, I enjoy using my attention to detail, my passion for coding, and building things to help others.
 
-- 📫 How to reach me: humberto.pinons@gmail.com;
+- 📫 How to reach me: humberto.pinons@gmail.com.
+<!-- - - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
